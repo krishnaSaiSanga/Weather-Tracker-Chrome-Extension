@@ -6,7 +6,8 @@
 
 This is a Screenshot of Window without the extension.
 
-<img width="960" alt="Screenshot 2023-11-10 211336" src="https://github.com/krishnaSaiSanga/Weather-Tracker-Chrome-Extension/assets/150455517/86f5edca-a661-416a-91c9-0d759c3367cd">
+<img width="960" alt="Screenshot 2023-11-10 211336" src="https://github.com/krishnaSaiSanga/Weather-Tracker-Chrome-Extension/assets/150455517/fa85373f-18e7-48b0-952a-551fadce089b">
+
 
 --> Designed this Weather Tracking Chrome Extension that delivers Real-Time Weather using React Js, Javascript, HTML, CSS, APIs, Bootstrap and JSX.
 
