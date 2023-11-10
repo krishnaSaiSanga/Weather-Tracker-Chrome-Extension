@@ -1,0 +1,15 @@
+{
+  "manifest_version":3,
+  "name" : "Weather tracker",
+  "version":"1.0",
+  "description":"Achrome extention to find weather",
+  "icons":{
+    "48":"logo512.png"
+  },
+  
+  "action":{
+    "default_title":"weather tracker",
+    "default_icon":"logo512.png",
+    "default_popup":"index.html"
+  }
+}
